@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Source Sans Pro", sans-serif;
+  color: var(--text);
+}
+
+:root {
+  font-size: 62.5%;
+
+  --background: #1f2937;
+  --backgroundLight: #1e1e1e;
+
+  --text: #f9fafb;
+  --red: #991b1b;
+  --green: #6ee7b7;
+  --purple: #9333ea;
+}
+
+body {
+  font-size: 1.6rem;
+  background-color: var(--backgroundLight);
+}
